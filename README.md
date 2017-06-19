@@ -4,7 +4,7 @@ Python plug-ins for Gimp
 Python scripts for Gimp are classed as plug-ins not scripts.
 
 ## Installation
-Copy the .py file to C:\Users\<username>\.gimp[version]\plug-ins.
+Copy the .py file to C:\Users\\\<username\>\\.gimp[version]\plug-ins.
 
 or
 
